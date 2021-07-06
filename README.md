@@ -1,3 +1,6 @@
+# Created by -:
+Balkrushna Dash        Shrayam Mitra <br>
+19EC10075              19EC10076
 # Covid Management System 
 This Website is created with the intention to manage the current covid scenario. It allows users/patients to book slots for vaccination and also beds in case of emergency. 
 # Home Page
