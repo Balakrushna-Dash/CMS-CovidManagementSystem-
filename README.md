@@ -37,3 +37,5 @@ The number of hospitals in the city is equal to NumberOfHospitals(set at 10).
 Each Hospital can vaccinate upto TotalVaccine(set at 2).<br>
 Each Hospital has a capacity of TotalBed(set at 2).<br>
 Calender window length Days(set at 30)
+
+![code](https://user-images.githubusercontent.com/56407204/124670385-8a044980-ded1-11eb-915f-fbfc4c56fb82.PNG)
