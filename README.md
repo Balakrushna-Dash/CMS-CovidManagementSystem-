@@ -28,6 +28,9 @@ bookings are presented in a sorted order according to their date of booking. Pas
 # Bed booking and BedOrder
 This tab will allow the user to view the total-capacity and available number of beds in each of the hospitals in the city. By pressing the ***Click-Here*** buttion you can book the bed
 after confirmation.This booking can be viewed in the mybedOrder section. This bed would be reavailable after the patient is discharged and the hospital updates the status.
+
+![imgonline-com-ua-twotoone-ecGBotKahUP](https://user-images.githubusercontent.com/56407204/124670239-4f021600-ded1-11eb-9b41-4d31a15c1637.jpg)
+
 # Some Assumptions
 The number of hospitals in the city is equal to NumberOfHospitals(set at 10).
 <br>
