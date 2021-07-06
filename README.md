@@ -22,6 +22,9 @@ This tab will allow the user to view all the hospitals in the city and after cho
 The calender shows a 30 day window starting from the current day and the slots which are unavailable are displayed as "All Booked". By choosing a valid slot you would be redirected
 to a confirmation page where by confirming your slot would be booked.This booked slot can be viewed in the myVacOrder section , from where the booking  may also be cancelled. The 
 bookings are presented in a sorted order according to their date of booking. Past events are presented in the bottom part which would be removed automatically after a certain time.
+
+![imgonline-com-ua-twotoone-XZNzuwbqLvrEY](https://user-images.githubusercontent.com/56407204/124670117-22e69500-ded1-11eb-9868-45dfd5bab0cf.jpg)
+
 # Bed booking and BedOrder
 This tab will allow the user to view the total-capacity and available number of beds in each of the hospitals in the city. By pressing the ***Click-Here*** buttion you can book the bed
 after confirmation.This booking can be viewed in the mybedOrder section. This bed would be reavailable after the patient is discharged and the hospital updates the status.
