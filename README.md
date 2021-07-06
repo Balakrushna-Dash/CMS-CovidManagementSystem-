@@ -1,6 +1,3 @@
-outline -:
-heading cms
-home / about / sign up/sign in / vaccine / vac calender / bedbooking / vac order / bed order/
 # Covid Management System 
 This Website is created with the intention to manage the current covid scenario. It allows users/patients to book slots for vaccination and also beds in case of emergency. 
 # Home Page
