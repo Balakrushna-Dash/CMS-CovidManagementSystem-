@@ -14,6 +14,9 @@ After that you would land in your profile page.
 
 # Profile Page
 Here you can find the details of the account holder along with some more health tips.
+
+![profile](https://user-images.githubusercontent.com/56407204/124669983-f468ba00-ded0-11eb-9586-238ff512d335.PNG)
+
 # Vaccine and VacOrder
 This tab will allow the user to view all the hospitals in the city and after choosing any of the hospital you would be let to choose the slot from the available set of days.
 The calender shows a 30 day window starting from the current day and the slots which are unavailable are displayed as "All Booked". By choosing a valid slot you would be redirected
