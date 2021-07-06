@@ -4,7 +4,7 @@ This Website is created with the intention to manage the current covid scenario.
 This is the landing page of our website. On this page you can find several health tips which on refreshing the page gets updated.The instructions that are necessary to explore the 
 website are available in our ***About*** tab. The ***Link*** tab leads to the official government page of Ministry of Health and Family Welfare. 
 
-![cap1](https://user-images.githubusercontent.com/56407204/124668080-f8dfa380-decd-11eb-8584-d03069fffc21.PNG)
+
 
 # Sign up/Sign in
 New users must register themselves by filling all the necessary details under the signup section. If you have an account then you can enter your profile by signing in.
