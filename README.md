@@ -1,6 +1,10 @@
+<!--- Creators of CMS --->
 # Created by -:
-Balkrushna Dash        Shrayam Mitra <br>
-19EC10075              19EC10076
+### Balkrushna Dash      &emsp; Shrayam Mitra <br>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19EC10075          &nbsp;&nbsp;&emsp;&emsp;&emsp;   19EC10076
+<!--- end --->
+
+<!--- Code starts from here --->
 # Covid Management System 
 This Website is created with the intention to manage the current covid scenario. It allows users/patients to book slots for vaccination and also beds in case of emergency. 
 # Home Page
